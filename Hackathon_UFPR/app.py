@@ -13,8 +13,6 @@ st.set_page_config(
     layout="wide"
 )
 
-st.write("Arquivos na raiz do deploy:", os.listdir("."))
-
 # -----------------------------------------------------------------------------
 # CONFIGURAÇÕES GERAIS E ARQUIVOS
 # -----------------------------------------------------------------------------
