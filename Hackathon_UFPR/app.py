@@ -21,9 +21,9 @@ st.write("Arquivos na raiz do deploy:", os.listdir("."))
 # Mapeamento dos arquivos
 FILES = {
     "Disciplina Presencial": "Hackathon_UFPR/Av_Disciplinas_Presenciais.csv",
-    "Disciplina EAD": "Av_Disciplinas_EAD.csv",
-    "Curso": "Av_Curso.csv",
-    "Instituição": "Av_Institucional.csv"
+    "Disciplina EAD": "Hackathon_UFPR/Av_Disciplinas_EAD.csv",
+    "Curso": "Hackathon_UFPR/Av_Curso.csv",
+    "Instituição": "Hackathon_UFPR/Av_Institucional.csv"
 }
 
 # -----------------------------------------------------------------------------
